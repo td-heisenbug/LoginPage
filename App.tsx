@@ -23,7 +23,7 @@ const onPress = () => {}
 const Details = () => {
   return (
     <View>
-      <Text></
+      <Text></Text>
     </View>
   )
 }
