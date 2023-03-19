@@ -78,6 +78,7 @@ function App(): JSX.Element {
     <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen
+         options={{headerShown: false}} 
          name="Login" 
          component={Login}
          ></Stack.Screen>
